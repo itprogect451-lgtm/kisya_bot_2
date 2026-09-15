@@ -1,4 +1,0 @@
-requests
-vk-api
-python-dotenv
-openai
